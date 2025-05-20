@@ -1,0 +1,15 @@
+C:\Users\dariq\Documents\Proyecto\SimpleMDB\bin\Debug\net9.0\SimpleMDB.exe
+C:\Users\dariq\Documents\Proyecto\SimpleMDB\bin\Debug\net9.0\SimpleMDB.deps.json
+C:\Users\dariq\Documents\Proyecto\SimpleMDB\bin\Debug\net9.0\SimpleMDB.runtimeconfig.json
+C:\Users\dariq\Documents\Proyecto\SimpleMDB\bin\Debug\net9.0\SimpleMDB.dll
+C:\Users\dariq\Documents\Proyecto\SimpleMDB\bin\Debug\net9.0\SimpleMDB.pdb
+C:\Users\dariq\Documents\Proyecto\SimpleMDB\obj\Debug\net9.0\SimpleMDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dariq\Documents\Proyecto\SimpleMDB\obj\Debug\net9.0\SimpleMDB.AssemblyInfoInputs.cache
+C:\Users\dariq\Documents\Proyecto\SimpleMDB\obj\Debug\net9.0\SimpleMDB.AssemblyInfo.cs
+C:\Users\dariq\Documents\Proyecto\SimpleMDB\obj\Debug\net9.0\SimpleMDB.csproj.CoreCompileInputs.cache
+C:\Users\dariq\Documents\Proyecto\SimpleMDB\obj\Debug\net9.0\SimpleMDB.sourcelink.json
+C:\Users\dariq\Documents\Proyecto\SimpleMDB\obj\Debug\net9.0\SimpleMDB.dll
+C:\Users\dariq\Documents\Proyecto\SimpleMDB\obj\Debug\net9.0\refint\SimpleMDB.dll
+C:\Users\dariq\Documents\Proyecto\SimpleMDB\obj\Debug\net9.0\SimpleMDB.pdb
+C:\Users\dariq\Documents\Proyecto\SimpleMDB\obj\Debug\net9.0\SimpleMDB.genruntimeconfig.cache
+C:\Users\dariq\Documents\Proyecto\SimpleMDB\obj\Debug\net9.0\ref\SimpleMDB.dll
